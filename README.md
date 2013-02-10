@@ -10,6 +10,7 @@ Choose your format:
 - [Textmate and Sublime Text 1/2](https://github.com/mekwall/obsidian-color-scheme/raw/master/textmate/Obsidian.tmTheme)
 - [iTerm2](https://github.com/mekwall/obsidian-color-scheme/raw/master/iterm2/obsidian.itermcolors)
 - [Chrome Developer Tools](https://github.com/mekwall/obsidian-color-scheme/raw/master/chromedevtools/Custom.css)
+- [Console2](https://github.com/gcollic/obsidian-color-scheme/raw/master/console2/console_colors.xml)
 
 ## Installation instructions
 
@@ -44,6 +45,10 @@ To add a color scheme to your Chrome Developer Tools / Web Inspector, simply rep
 #### Ubuntu (Chromium)
 `~/.config/chromium/Default/User StyleSheets/Custom.css`
 
+### Console2
+
+To change the color scheme of Console2, backup your console.xml file (beside console.exe) then simply change the colors values in the file with the one in the console_colors.xml sample file.
+
 ## Screenshots
 
 ### JetBrains Web IDE
@@ -75,3 +80,5 @@ To add a color scheme to your Chrome Developer Tools / Web Inspector, simply rep
 ![HTML](https://github.com/mekwall/obsidian-color-scheme/raw/master/iterm2/screenshots/iterm.png "iTerm2")
 ## Chrome Developer Tools
 ![Elements](https://github.com/mekwall/obsidian-color-scheme/raw/master/chromedevtools/screenshots/elements.png "Elements")
+## Console2
+![Console2](https://github.com/gcollic/obsidian-color-scheme/raw/master/console2/screenshots/console2.png "Console2")
